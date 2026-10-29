@@ -1,6 +1,7 @@
 ---
+---
 name: cue-skill
-description: Universal prompt engineering skill. Generates system prompts, agent prompts, user prompts, design descriptions, meta-prompts, and neutral descriptions using the RACE-PEP framework. Use when the user wants to create, improve, or optimize any prompt type, write system instructions for AI agents, craft design briefs, or build prompt templates. Triggers on: "create a prompt", "write a system prompt", "optimize this prompt", "design description", "agent prompt", "prompt engineering", "craft a prompt", "build a prompt template".
+description: "Universal prompt engineering skill using the RACE-PEP framework. Use when creating, improving, or optimizing prompts, AI agent instructions, design briefs, or prompt templates."
 ---
 
 # CUE — Craft Universal Efficient Prompts
