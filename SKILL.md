@@ -2,6 +2,12 @@
 name: cue-skill
 description: "Creates, improves, and evaluates AI prompts using the RACE-PEP framework. Use when writing or optimizing prompts, agent instructions, and prompt templates."
 ------
+name: cue-skill
+description: "Creates, improves, and evaluates AI prompts using the RACE-PEP framework. Use when writing or optimizing prompts, agent instructions, and prompt templates."
+------
+name: cue-skill
+description: "Creates, improves, and evaluates AI prompts using the RACE-PEP framework. Use when writing or optimizing prompts, agent instructions, and prompt templates."
+------
 ---
 name: cue-skill
 description: "Universal prompt engineering skill using the RACE-PEP framework. Use when creating, improving, or optimizing prompts, AI agent instructions, design briefs, or prompt templates."
